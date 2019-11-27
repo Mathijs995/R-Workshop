@@ -1,8 +1,11 @@
 # R Workshop
 Welcome to the Github repository of the R workshop created by [Mathijs de Jong](https://www.linkedin.com/in/mathijsdejong995/). This workshop was originally designed for a coding hours session hosted by Turing Students Rotterdam and has since been used for multiple iterations of the [EFR/ESE job market skills week](https://www.efr.nl/education/efrese-job-market-skills) and the EUR Career Skills Week.
 
-## Table of contents
+## Links
 - [Workshop slides](https://github.com/Mathijs995/R-Workshop/raw/master/R%20Workshop%20-%20Presentation.pdf)
+- [R studio](https://rstudio.cloud/)
+- [DataCamp - Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+- [R-statistics - R tutorial](http://r-statistics.co/R-Tutorial.html)
 
 ## I found a mistake or something is not clear, what do I do?
 Please file an issue or send an email to [mathijsdejong1995@gmail.com](mailto:mathijsdejong1995@gmail.com). You would greatly help out with improving the workshop.
