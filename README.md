@@ -3,7 +3,7 @@ Welcome to the Github repository of the R workshop created by [Mathijs de Jong](
 
 ## Links
 - [Workshop slides](https://github.com/Mathijs995/R-Workshop/raw/master/R%20Workshop%20-%20Presentation.pdf)
-- [R studio](https://rstudio.cloud/)
+- [RStudio Cloud](https://rstudio.cloud/)
 - [DataCamp - Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 - [R-statistics - R tutorial](http://r-statistics.co/R-Tutorial.html)
 
