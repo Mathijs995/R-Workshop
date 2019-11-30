@@ -11,4 +11,4 @@ Welcome to the Github repository of the R workshop created by [Mathijs de Jong](
 Found a mistake or inconsistency? [Open a new issue](https://github.com/Mathijs995/R-Workshop/issues) here on GitHub or [send me an email](mailto:mathijsdejong1995@gmail.com).
 
 ## Copyright and License
-Copyright 2018 Mathijs de Jong. Content released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license, which means you can use this content for any purpose, even for commercial projects.
+Copyright 2019 Mathijs de Jong. Content released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license, which means you can use this content for any purpose, even for commercial projects.
